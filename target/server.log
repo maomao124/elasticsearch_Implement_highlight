@@ -1,0 +1,10 @@
+2022-06-01 14:45:47.264  INFO 10088 --- [main] asticsearchImplementHighlightApplication : Starting ElasticsearchImplementHighlightApplication v0.0.1-SNAPSHOT using Java 16.0.2 on mao with PID 10088 (H:\程序\大三下期\elasticsearch实现高亮显示\target\elasticsearch_Implement_highlight-0.0.1-SNAPSHOT.jar started by mao in H:\程序\大三下期\elasticsearch实现高亮显示\target)
+2022-06-01 14:45:47.267 DEBUG 10088 --- [main] asticsearchImplementHighlightApplication : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-01 14:45:47.267  INFO 10088 --- [main] asticsearchImplementHighlightApplication : The following 1 profile is active: "dev"
+2022-06-01 14:45:48.411  INFO 10088 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-06-01 14:45:48.423  INFO 10088 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-01 14:45:48.423  INFO 10088 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-01 14:45:48.507  INFO 10088 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-01 14:45:48.508  INFO 10088 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1177 ms
+2022-06-01 14:45:49.401  INFO 10088 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-01 14:45:49.418  INFO 10088 --- [main] asticsearchImplementHighlightApplication : Started ElasticsearchImplementHighlightApplication in 2.761 seconds (JVM running for 3.254)
